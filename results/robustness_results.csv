@@ -1,0 +1,6 @@
+specification,dst_coefficient,t_stat
+"(-2,+2) window",-0.0031,-2.14
+"(-7,+7) window",-0.0049,-2.73
+"Excluding small caps",-0.0046,-2.45
+"CAPM abnormal returns",-0.0047,-2.62
+"Firm and year fixed effects",-0.0051,-2.77
